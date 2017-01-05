@@ -1,6 +1,5 @@
 # CMSC137_Project2
-
-You can change the port that you will use
+Name: Ma. Ara P. Coronado
 
 Compile WebServer.java: javac WebServer.java
 
