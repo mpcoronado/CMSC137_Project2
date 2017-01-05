@@ -16,4 +16,4 @@ If you want to open a file in the server
 	or 
 	localhost:port/file (Example: localhost:5678/style.js)
 
-Press ctrl-c in the terminal to stop orclose the server
+Press ctrl-c in the terminal to stop or close the server
